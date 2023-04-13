@@ -4,7 +4,7 @@ React Weather API App is a web-based application that displays the weather condi
 The app utilizes a weather API to retrieve real-time weather data and displays it in an intuitive and user-friendly interface.
 
 <p align="center">
-<img src="./weatherApp.PNG" alt="weather App">
+<img src="./weatherApps.PNG" alt="weather App">
 </p>
 
 # Features
