@@ -26,6 +26,17 @@ Users can also view the daily and hourly weather forecast for the next 7 days by
 
 The app also provides the option to switch between metric and imperial units for temperature and wind speed.
 
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm run start:frontend` for the client
+### `npm run start` for the server
+
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
 # Technologies
 
 React Weather API App is built using React, with the following libraries and APIs:
